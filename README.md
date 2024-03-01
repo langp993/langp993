@@ -18,6 +18,16 @@ Here is my Tech-stack.
 - GitHub
 - VSCode
 
+## Languages:
+
+
+- 🇩🇪 German: Native speaker
+- 🇬🇧 English: Native Speaker
+- 🇪🇸 Spanish: Intermediate
+
+## Contact Me:
+
+
 📫 How to reach me:
 
 Email: Patrickphillange@gmail.com
