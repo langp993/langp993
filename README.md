@@ -15,9 +15,9 @@ Here is my Tech-stack.
 - React
 - Next.js
 - MongoDB
+- Firebase
 - Git
 - GitHub
-- Firebase
 - VSCode
 
 ## Languages:
