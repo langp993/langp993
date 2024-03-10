@@ -13,6 +13,7 @@ Here is my Tech-stack.
 - Netlify
 - Postman
 - React
+- Tailwind.Css
 - Next.js
 - MongoDB
 - Firebase
