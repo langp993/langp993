@@ -14,8 +14,10 @@ Here is my Tech-stack.
 - Postman
 - React
 - Next.js
+- MongoDB
 - Git
 - GitHub
+- Firebase
 - VSCode
 
 ## Languages:
